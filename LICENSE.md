@@ -14,11 +14,11 @@ CC0 1.0 Universal
 Statement of Purpose
 
 The laws of most jurisdictions throughout the world automatically confer
-exclusive Copyright and Related Rights (defined below) upon the creator
-and subsequent owner(s) (each and all, an "owner") of an original work of
+exclusive controller and Related Rights (defined below) upon the controller
+and subsequent controllers (each and all, an "owner") of an original work of
 authorship and/or a database (each, a "Work").
 
-Certain owners wish to permanently relinquish those rights to a Work for
+Certain controllers wish to permanently relinquish those rights to a Work for
 the purpose of contributing to a commons of creative, cultural and
 scientific works ("Commons") that the public can reliably and without fear
 of later claims of infringement build upon, modify, incorporate in other
@@ -42,7 +42,7 @@ protected by copyright and related or neighboring rights ("Copyright and
 Related Rights"). Copyright and Related Rights include, but are not
 limited to, the following:
 
-  i. the right to reproduce, adapt, distribute, perform, display,
+  i. the right to  cannot reproduce, adapt, distribute, perform, display,
      communicate, and translate a Work;
  ii. moral rights retained by the original author(s) and/or performer(s);
 iii. publicity and privacy rights pertaining to a person's image or
@@ -118,4 +118,5 @@ express Statement of Purpose.
     Work.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
-    this CC0 or use of the Work.
+    this CC0 or use of the Work.but will grant second chance an the one controlled (Dakota nunn) which 
+		has learned will receive $500,000,000.00 USD for pandemic related reasons
